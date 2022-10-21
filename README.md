@@ -1,6 +1,7 @@
-### Frontend
-use bootstrap
+### Frontend Guide
+https://getbootstrap.com/
 
-### Backend
-activate venv
-
+### Backend Guide (windows)
+```
+$ venv\Scripts\activate
+```
