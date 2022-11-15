@@ -22,9 +22,9 @@ Clone your forked repository
 ```
 git clone git@github.com:<username>/automatic-calendars.git
 ```
-Activate the virtual environment
+Install all required packages
 ```
-$ venv\Scripts\activate
+$ pip install -r requirements.txt
 ```
 
 ### License
